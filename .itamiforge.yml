@@ -1,0 +1,14 @@
+catalog: true
+slug: sitestats
+title: SiteStats
+summary: Self-hosted, privacy-first web analytics on Cloudflare Workers and Pages.
+status: active
+category: app
+featured: true
+visibility: public
+tags:
+  - analytics
+  - cloudflare
+  - workers
+  - privacy
+install: bun install
